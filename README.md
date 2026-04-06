@@ -2,14 +2,14 @@
 
 ---
 
-## 📚 Course Information
+## 1. Course Information
 
 - **Course Name:** Data Analytics - Machine Learning 
 - **Team Name:** SS Team  
 
 ---
 
-## 👥 Team Members
+## 2. Team Members
 
 | Name | Student ID | Group | Role | Phone |
 |------|------------|--------|------|--------|
@@ -18,7 +18,7 @@
 
 ---
 
-## Project Title
+## 3. Project Title
 
 **Analysis of Smartphone Usage and Addiction Patterns**  
 
@@ -27,7 +27,7 @@ This project analyzes smartpphone usage behavior and examines factors related to
 
 ---
 
-## Dataset Information 
+## 4. Dataset Information 
 
 - **Dataset Title:** Smartphone Usage and Addiction Dataset
 - **Source Website/URL:** <br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
