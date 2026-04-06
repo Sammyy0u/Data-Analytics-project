@@ -50,15 +50,30 @@ Original dataset size: 7500 rows and 16 columns <br>Dataset used in this project
 
 ---
 
-## 🎯 Project Objectives
+## 5. Project Objectives
 
-The main objectives of this project are:
+The main objectives of this project is to analyze smartphone usage behavior and identify factors that may be associated with smartphone addiction.
 
-- To develop an online platform for selling Korean skincare products  
-- To allow users to register and securely log in  
-- To enable customers to browse products by category (cleanser, toner, serum, sunscreen, etc.)  
-- To implement a shopping cart and online purchasing system  
-- To allow managers to manage products, orders, and users  
+**Problem Statement:** Excessive smartphone usage may negatively affect productivity,academic performance,and overall well-being.
+
+**Research Questions:** 
+- How much time do users spend on smartphones daily?
+- Does smartphone usage differ between genders?
+- Is there a relationship between screen time and smartphone addiction level?
+- Does smartphone usage affect academic or work performance?
+- How does weekend screen time compare to regular daily usage?
+
+**Expected Insights:**
+- Identity pattern of smartphone usage
+- Understand the relationship between screen time and addiction level
+- Analyze how smartphone usage affects academic or work activities
+
+---
+
+## 6. Data Preparation (Using Pandas)
+- **Loading the dataset**
+<br>Download the dataset through website using URL: <br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
+
 
 ---
 ## 📦 Scope of the System
