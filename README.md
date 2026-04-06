@@ -75,25 +75,31 @@ The main objectives of this project is to analyze smartphone usage behavior and 
 <br>Download the dataset through website using URL: <br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
 
 
----
-## 📦 Scope of the System
+1) First we download all packages and check if requirements are satisfied:
 
-This system will:
+2) Read the data (table)
 
-- ✅ Allow users to register and log in  
-- ✅ Display a list of Korean skincare products  
-- ✅ Allow users to add products to the cart  
-- ✅ Enable online purchasing  
+-**Cleaning Data**
+1) Redusinng dataset size
+<br>Since the original dataset contains a large number of records, we will take only the first 50 rows to simplify the analysis
 
----
+"(df.shape is to check the number of columns and rows)"
 
-## 👤 Expected Users
 
-- **Customer**  
-- **Employee**  
-- **Manager**
+2) Selecting relevant columns
 
----
+We only chose columns relevant to smartphone usage and addiction for more accurate analysis 
+
+3 Checking for missing values and removing duplicate rows
+
+4) Renaming Columns to improve readability
+
+5) Overview of result:
+
+6) Now we can save organized version of our table to our file
+
+## 7. Data Analysis Tasks 
+
 
 ## ⏳ Project Timeline (5 Weeks)
 
