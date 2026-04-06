@@ -44,6 +44,7 @@ and addiction levels.
 - **Size of dataset(rows,columns):**
 
 Original dataset size: 7500 rows and 16 columns
+
 Dataset used in this project: 50 rows and 10 columns (after data preparation)
 
 ---
