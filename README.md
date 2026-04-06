@@ -21,14 +21,19 @@
 ## Project Title
 
 **Analysis of Smartphone Usage and Addiction Patterns**  
-*This project analyzes smartpphone usage behavior and examines factors related to smartphone addiction using data analytics techniques.*
+
+
+This project analyzes smartpphone usage behavior and examines factors related to smartphone addiction using data analytics techniques.
 
 ---
 
 ## Dataset Information 
 
 - **Dataset Title:** Smartphone Usage and Addiction Dataset
-- **Source Website/URL:** https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
+- **Source Website/URL:**
+
+https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
+
 - **Description of the dataset:**
 
 The dataset contains information about smartphone usage patterns of users. It includes variables such as age, gender, daily screen time, time spent on
