@@ -30,8 +30,7 @@ This project analyzes smartpphone usage behavior and examines factors related to
 ## Dataset Information 
 
 - **Dataset Title:** Smartphone Usage and Addiction Dataset
-- **Source Website/URL:**
-  https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
+- **Source Website/URL:** <br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
 
 - **Description of the dataset:**
 
