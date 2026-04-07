@@ -117,7 +117,7 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 ## 7. Data Analysis Tasks 
 
-- <u>Filtering,sorting,grouping</u>
+- **Filtering,sorting,grouping**
 
 1) Filtering allows selecting specific rows based on conditions.In this case, users with high smartphone usage were analyzed
 
@@ -131,27 +131,27 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 ![](images/IMG12.png)
 
-- <u>Aggregation analysis</u>
-Aggregation was used to analyze the relationship between smartphone addiction level and screen time.
+- **Aggregation analysis**
+<br>Aggregation was used to analyze the relationship between smartphone addiction level and screen time.
 
 ![](images/IMG13.png)
 
 This analysis shows how smartphone usage varies depending on addiction level.
 
-- <u>Pivot table anaysis</u>
+- **Pivot table anaysis**
 
 ![](images/IMG14.png)
 
 Pivot table was used to summarize the relationship betwenn gender and addiction level
 
-- <u>Correlation analysis</u>
+- **Correlation analysis**
 
 ![](images/IMG15.png)
 
 Correlation analysis was performed to examine the relationship between screen time and weekend usage.
 
 - **Results Related to the Research Questions**
-The analysis helps answer the research questions defined in the project objectives:
+<br>The analysis helps answer the research questions defined in the project objectives:
 - Users with higher screen time tend to show higher addiction level
 - Smartphone usage patterns vary between users
 - Weekend screen time may increase overall smartphone usage
