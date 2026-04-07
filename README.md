@@ -84,24 +84,35 @@ The main objectives of this project is to analyze smartphone usage behavior and 
 
 ![](images/IMG3.png)
 
--**Cleaning Data**
+- **Cleaning Data**
 1) Redusinng dataset size
 <br>Since the original dataset contains a large number of records, we will take only the first 50 rows to simplify the analysis
 
-(df.shape is to check the number of columns and rows)
+![](images/IMG4.png)
 
+(df.shape is to check the number of columns and rows)
 
 2) Selecting relevant columns
 
+![](images/IMG5.png)
+
 We only chose columns relevant to smartphone usage and addiction for more accurate analysis 
 
-3 Checking for missing values and removing duplicate rows
+3) Checking for missing values and removing duplicate rows
+
+![](images/IMG6.png)
 
 4) Renaming Columns to improve readability
 
+![](images/IMG7.png)
+
 5) Overview of result:
 
+![](images/IMG8.png)
+
 6) Now we can save organized version of our table to our file
+
+![](images/IMG9.png)
 
 ## 7. Data Analysis Tasks 
 
