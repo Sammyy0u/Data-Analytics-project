@@ -74,15 +74,15 @@ The main objectives of this project is to analyze smartphone usage behavior and 
 - **Loading the dataset**
 <br>Download the dataset through website using URL: <br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
 
-(images/IMG1.png)
+![](images/IMG1.png)
 
 1) First we download all packages and check if requirements are satisfied:
 
-(images/IMG2.png)
+![](images/IMG2.png)
 
 2) Read the data (table)
 
-(images/IMG3.png)
+![](images/IMG3.png)
 
 -**Cleaning Data**
 1) Redusinng dataset size
