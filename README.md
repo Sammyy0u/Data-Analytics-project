@@ -1,3 +1,4 @@
+
 # 📘 Data Analytics: Machine Learning – Project Plan
 
 ---
@@ -116,37 +117,47 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 ## 7. Data Analysis Tasks 
 
--Filtering,sorting,grouping
-1)Filtering allows selecting specific rows based on conditions.In this case, users with high smartphone usage were analyzed.
+- <u>Filtering,sorting,grouping</u>
 
+1) Filtering allows selecting specific rows based on conditions.In this case, users with high smartphone usage were analyzed
 
-2)Sorting helps identify users with highest daily screen time
+![](images/IMG11.png)
 
+2) Sorting helps identify users with highest daily screen time
 
-3)groupby()-function groups the data by gender and calculates the average screen time for each group
+![](images/IMG12.png)
 
+3) groupby()-function groups the data by gender and calculates the average screen time for each group
 
--Aggregation analysis
+![](images/IMG13.png)
+
+- <u>Aggregation analysis</u>
 Aggregation was used to analyze the relationship between smartphone addiction level and screen time.
 
+![](images/IMG14.png)
 
 This analysis shows how smartphone usage varies depending on addiction level.
--Pivot table anaysis
 
+- <u>Pivot table anaysis</u>
+
+![](images/IMG15.png)
 
 Pivot table was used to summarize the relationship betwenn gender and addiction level
--Correlation analysis
 
+- <u>Correlation analysis</u>
+
+![](images/IMG16.png)
 
 Correlation analysis was performed to examine the relationship between screen time and weekend usage.
--Results Related to the Research Questions
-The analysis helps answer the research questions defined in the project objectives:
-- Users with higher screen time tend to show higher addiction level.
-- Smartphone usage patterns vary between users.
-- Weekend screen time may increase overall smartphone usage.
-- High smartphone usage may impact academic or work performance.
 
-8.Key Findings and Insights
+- **Results Related to the Research Questions**
+The analysis helps answer the research questions defined in the project objectives:
+- Users with higher screen time tend to show higher addiction level
+- Smartphone usage patterns vary between users
+- Weekend screen time may increase overall smartphone usage
+- High smartphone usage may impact academic or work performance
+
+## 8. Key Findings and Insights
 
 After performing the data analysis,several important insights were discovered.
 - First, users who spend more time on their smartphones tend to have higher addiction levels.The analysis showed that daily screen time increases significantly for users with higher addiction levels.
@@ -155,19 +166,19 @@ After performing the data analysis,several important insights were discovered.
 - Finally,excessive smartphone usage may have an impact on academic or work performance.Higher screen time is often associated with greater academic work impact levels.
 These findings help better understand behavioral patterns related to smartphone usage. 
 
-## ⏳ Project Timeline (5 Weeks)
+## 9. Project Timeline (5 Weeks)
 
 | Week | Activities |
 |------|------------|
-| **Week 1** (6 Feb – 13 Feb) | Dataset search and project planning |
-| **Week 2** (13 Feb – 20 Feb) | Data cleaning and preparation |
-| **Week 3** (20 Feb – 27 Feb) | Data analysis and visualization |
-| **Week 4** (27 Feb – 6 Mar) | Advanced analysis and interpretation |
+| **Week 1** (6 Feb – 13 Feb) | Activities |
+| **Week 2** (13 Feb – 20 Feb) | Dataset search and project planning |
+| **Week 3** (20 Feb – 27 Feb) | Data cleaning and preparation |
+| **Week 4** (27 Feb – 6 Mar) | Data analysis and visualization |
 | **Week 5** (6 Mar – 13 Mar) | Report writing and presentation preparation |
 
 ---
 
-## ✅ Outcome of the Project
+## 10. Outcome of the Project
 
 - We learned how to analyze a business problem and design an online 
 shopping system 
