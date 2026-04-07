@@ -116,6 +116,44 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 ## 7. Data Analysis Tasks 
 
+-Filtering,sorting,grouping
+1)Filtering allows selecting specific rows based on conditions.In this case, users with high smartphone usage were analyzed.
+
+
+2)Sorting helps identify users with highest daily screen time
+
+
+3)groupby()-function groups the data by gender and calculates the average screen time for each group
+
+
+-Aggregation analysis
+Aggregation was used to analyze the relationship between smartphone addiction level and screen time.
+
+
+This analysis shows how smartphone usage varies depending on addiction level.
+-Pivot table anaysis
+
+
+Pivot table was used to summarize the relationship betwenn gender and addiction level
+-Correlation analysis
+
+
+Correlation analysis was performed to examine the relationship between screen time and weekend usage.
+-Results Related to the Research Questions
+The analysis helps answer the research questions defined in the project objectives:
+- Users with higher screen time tend to show higher addiction level.
+- Smartphone usage patterns vary between users.
+- Weekend screen time may increase overall smartphone usage.
+- High smartphone usage may impact academic or work performance.
+
+8.Key Findings and Insights
+
+After performing the data analysis,several important insights were discovered.
+- First, users who spend more time on their smartphones tend to have higher addiction levels.The analysis showed that daily screen time increases significantly for users with higher addiction levels.
+- Second,smartpone usage patterns vary between genders.The grouping analysis showed significant differences in the average screen time between male and female users.
+- Third,weekend screen time contributes to overall smartphone usage.Many users spend more time on their phone during weekends compared to regular weekdays.
+- Finally,excessive smartphone usage may have an impact on academic or work performance.Higher screen time is often associated with greater academic work impact levels.
+These findings help better understand behavioral patterns related to smartphone usage. 
 
 ## ⏳ Project Timeline (5 Weeks)
 
