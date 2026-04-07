@@ -121,32 +121,32 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 1) Filtering allows selecting specific rows based on conditions.In this case, users with high smartphone usage were analyzed
 
-![](images/IMG11.png)
+![](images/IMG10.png)
 
 2) Sorting helps identify users with highest daily screen time
 
-![](images/IMG12.png)
+![](images/IMG11.png)
 
 3) groupby()-function groups the data by gender and calculates the average screen time for each group
 
-![](images/IMG13.png)
+![](images/IMG12.png)
 
 - <u>Aggregation analysis</u>
 Aggregation was used to analyze the relationship between smartphone addiction level and screen time.
 
-![](images/IMG14.png)
+![](images/IMG13.png)
 
 This analysis shows how smartphone usage varies depending on addiction level.
 
 - <u>Pivot table anaysis</u>
 
-![](images/IMG15.png)
+![](images/IMG14.png)
 
 Pivot table was used to summarize the relationship betwenn gender and addiction level
 
 - <u>Correlation analysis</u>
 
-![](images/IMG16.png)
+![](images/IMG15.png)
 
 Correlation analysis was performed to examine the relationship between screen time and weekend usage.
 
