@@ -215,7 +215,7 @@ Overall, this project demonstrates how data analytics can be used to better unde
 <br>https://youtube.com/@amit.thinks?si=G5otZK6ZoCcn05Am
 - Website: chatgpt.com
 - Materials for practice from professor Kim Sung Soo
-- 
+
 ---
 
 ## 13. Appendix 
