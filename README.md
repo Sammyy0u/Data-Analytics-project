@@ -115,6 +115,8 @@ We only chose columns relevant to smartphone usage and addiction for more accura
 
 ![](images/IMG9.png)
 
+---
+
 ## 7. Data Analysis Tasks 
 
 - **Filtering,sorting,grouping**
@@ -157,6 +159,8 @@ Correlation analysis was performed to examine the relationship between screen ti
 - Weekend screen time may increase overall smartphone usage
 - High smartphone usage may impact academic or work performance
 
+---
+
 ## 8. Key Findings and Insights
 
 After performing the data analysis,several important insights were discovered.
@@ -165,6 +169,8 @@ After performing the data analysis,several important insights were discovered.
 - Third,weekend screen time contributes to overall smartphone usage.Many users spend more time on their phone during weekends compared to regular weekdays.
 - Finally,excessive smartphone usage may have an impact on academic or work performance.Higher screen time is often associated with greater academic work impact levels.
 These findings help better understand behavioral patterns related to smartphone usage. 
+
+---
 
 ## 9. Project Timeline (5 Weeks)
 
@@ -180,78 +186,48 @@ These findings help better understand behavioral patterns related to smartphone 
 
 ## 10. Outcome of the Project
 
-- We learned how to analyze a business problem and design an online 
-shopping system 
-- Developed skills in creating Use Case Diagrams to identify actors and their 
-interactions with the system  
-- Practiced BPM (Business Process Modeling) to represent workflows like 
-product purchasing
--  Learned to define database tables with fields and data types, considering 
-foreign key relationships
-- Gained experience in database design, including ERD creation and defining 
-relationships between entities (User, Product, order, etc.)  
+Through this project, we gained practical experience in data analysis using the Pandas library in Python. 
+<br>The project helped develop several important skills, including:
+- Loading and exploring datasets
+- Cleaning and preparing data for analysis
+- Using Pandas operations such as filtering, sorting, grouping, and aggregation
+- Creating pivot tables
+- Visualizing data using charts
+I- nterpreting analytical results
+<br>This project also helped us to improve our' ability to work with real-world datasets and extract meaningful insights from data.
 
 ---
 
-## Conclusion 
+## 11. Conclusion 
 
-- The project demonstrates the importance of having a centralized online 
-platform for Korean skincare products
-- By completing this project, we were able to design a functional and secure 
-system that supports user registration, product browsing, cart 
-management, and online payment
-- The system ensures that customers, employees, and managers can 
-interact efficiently with the platform
-- Creating Use Case Diagrams, BPM flows, ERDs and database tables 
-Helped solidify theoretical knowledge in system analysis and design
+This project analyzed smartphone usage patterns using data analytics techniques. By applying data preparation and analysis methods in Pandas, the dataset was cleaned, simplified, and analyzed to identify key usage trends.
+
+The analysis showed that smartphone addiction is closely related to daily screen time. Users who spend more hours on their smartphones are more likely to have higher addiction levels. Additionally, smartphone usage may influence academic or work productivity.
+
+Overall, this project demonstrates how data analytics can be used to better understand modern digital behavior and identify patterns in smartphone usage.
 
 ---
 
-## References
-
-- Tutorials on YouTube : https://youtu.be/iRRwPAdl9OQ?si=q7DBEh7vP8pHpj9r 
-- Websites : ChatGpt 
-- Documentation : our Professor Kim Sung Soo’s teaching materials (helped to 
-  practice and understand everything)
-
+## 12. References 
+- Dataset source: Kaggle dataset 
+<br>https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction/data
+- Tutorials: 
+<br>https://youtube.com/@amit.thinks?si=G5otZK6ZoCcn05Am
+- Website: chatgpt.com
+- Materials for practice from professor Kim Sung Soo
+- 
 ---
 
-## Appendix
+## 13. Appendix 
 
-Important Code snippets: 
+- Important code snippets:
 
-![1](images/codephoto1.png)
+![](images/IMG16.png)
 
-![2](images/codephoto2.png)
+- Additional charts:
 
-![3](images/codephoto3.png)
+![](images/IMG17.png)
 
-![4](images/codephoto4.png)
+![](images/IMG18.png)
 
----
-
-## Additional Charts and Tables:
-
-# 📊 Use Case Diagram
-
-![Use Case Diagram](images/photo1.png)
-
-📝 This diagram represents how users interact with the system.
-
----
-
-# 🔄 BPM Diagram
-
-![BPM Diagram](images/photo2.png)
-
-📝 This diagram shows the workflow of the system.
-
----
-
-# 🗄 ERD Diagram
-
-![ERD Diagram](images/photo3.png)
-
-📝 This diagram illustrates the database structure and relationships.
-
----
+![](images/IMG19.png)
